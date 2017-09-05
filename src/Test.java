@@ -1,3 +1,6 @@
+/**
+*	this is for your my first java class
+**/
 
 public class Test {
 
